@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    padding:0%;
+    background-color: black;
+}
+.h{
+ color:rgb(255, 208, 0);
+}
+span{
+    color:rgb(21, 253, 0);
+}
+.bi-lightbulb-fill{
+   font-size: 15rem;
+   color:gray;
+}
+#btt-one{
+    background-color:rgb(21, 253, 0);
+    color:black;
+}
+#btt-two{
+ background-color:rgb(255, 208, 0);
+ color:black;
+
+}
